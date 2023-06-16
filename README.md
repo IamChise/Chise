@@ -19,10 +19,6 @@ Incluso este readme fue hecho por Chatgpt ;)
 
 Puedes encontrar más detalles sobre estos proyectos y otros en los repositorios de mi perfil.
 
-## Estadísticas de GitHub
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=iamchise&show_icons=true)](https://github.com/iamchise)
-
 ## Contacto
 
 Si deseas contactarme, puedes hacerlo a través de esta plataforma o enviándome un correo electrónico a [xulpes@proton.me].
